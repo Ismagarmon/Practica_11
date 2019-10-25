@@ -9,9 +9,5 @@
    color: red;
 }
 table{
-    border: "1";
     border-collapse: collapse;
-}
-td{
-    border: 1px solid black;
 }

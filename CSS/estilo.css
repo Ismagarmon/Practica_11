@@ -1,0 +1,14 @@
+#texto{
+    text-align: center;
+    color: blue;
+}
+#color{
+   color: orange;
+}
+#color_1{
+   color: red;
+}
+#table{
+    border: "1";
+    border-collapse: collapse;
+}

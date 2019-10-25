@@ -8,7 +8,7 @@
 #color_1{
    color: red;
 }
-#table{
+table{
     border: "1";
     border-collapse: collapse;
 }
